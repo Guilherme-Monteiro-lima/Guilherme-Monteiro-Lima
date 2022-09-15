@@ -2,7 +2,7 @@
 
 - 🔭 Atualmente estou a procura de trabalho na área front-end
 - 🌱 Estudando HTML5 | CSS3 | JAVASCRIPT
-- 📫 Contate-me no email: guimonteirolima@hotmail.com
+- 📫 Contate-me no email: devguilhermemonteiro@gmail.com
 
 <div align="center">
   <a href="https://github.com/Guilherme-Monteiro-lima">
@@ -18,5 +18,5 @@
   
  ##
 
-  <a href = "mailto:guiihdl8@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href = "mailto:devguilhermemonteiro@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/guilherme-monteiro-lima/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
